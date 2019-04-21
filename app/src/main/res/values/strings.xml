@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Me-Admin</string>
+    <string name="home">Home</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="about_us">About Us</string>
+    <string name="permission_dialog">Accessing Location Permissions required</string>
+    <string name="go_to_permissions_settings">Go to App settings and enable permissions</string>
+</resources>
